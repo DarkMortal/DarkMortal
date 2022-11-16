@@ -1,3 +1,4 @@
+[![HitCount](https://hits.dwyl.com/DarkMortal/DarkMortal.svg?style=flat)](http://hits.dwyl.com/DarkMortal/DarkMortal)
 <h1 align="center"><b>Hi , I'm Saptarshi Dey </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F7D549&center=true&vCenter=true&width=435&lines=Developer;Programmer;Diffferential+Equations;Vector+Calculus;Statistics;Chess;Data+Structures;Algorithms" alt="Typing SVG" />
@@ -89,4 +90,7 @@
 </div>
 
 ---
-[![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
+<div align='center'>
+<img align='center' height='300' src='https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png'/>
+<br/> <h2>Jai Hind Jai Bharat</h2>
+</div>
