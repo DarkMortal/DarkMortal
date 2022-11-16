@@ -5,7 +5,8 @@
 </p>
 
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=DarkMortal&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"></img>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkMortal&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=012148B&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&layout=compact"></img>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=DarkMortal&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=012148B&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"></img>
 </div>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
