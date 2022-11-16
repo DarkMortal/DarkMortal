@@ -8,6 +8,7 @@
 </p>
 
 <div align="center">
+    <!--<img src="https://github-profile-trophy.vercel.app/?username=DarkMortal&theme=onestar&no-frame=true&column=3&row=2" alt="GitHub Streak Stats"/><br/>-->
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkMortal&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=012148B&text_color=D3D3D3&bg_color=0,000000,130F40&layout=compact"></img><br/><br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarkMortal&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=0E8DE4&fire=012148B&ring=0E8DE4" alt="GitHub Streak Stats"/><br/><br/>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=DarkMortal&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=012148B&icon_color=6FDA44&text_color=D3D3D3&bg_color=0,000000,130F40"></img>
@@ -87,7 +88,6 @@
     <a href="https://www.linkedin.com/in/saptarshi-dey-0905211a5" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="https://open.spotify.com/user/31hmsdhy5tvxnxgzqcpyuavv2f64" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
     <a href="https://dev.to/darkmortal" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a><br/>
-    <img src="https://github-profile-trophy.vercel.app/?username=DarkMortal&theme=onestar&no-frame=true&column=3&row=2" alt="GitHub Streak Stats"/>
 </div>
 
 ---
