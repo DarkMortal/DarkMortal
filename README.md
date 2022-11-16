@@ -8,9 +8,9 @@
 </p>
 
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkMortal&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=012148B&text_color=D3D3D3&bg_color=0,000000,130F40&layout=compact"></img><br/><br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DarkMortal&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=0E8DE4&fire=012148B&ring=0E8DE4" alt="GitHub Streak Stats"/><br/><br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=DarkMortal&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=012148B&icon_color=6FDA44&text_color=D3D3D3&bg_color=0,000000,130F40"></img>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkMortal&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=012148B&text_color=D3D3D3&bg_color=0,000000,130F40&layout=compact"></img><br/><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarkMortal&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=0E8DE4&fire=012148B&ring=0E8DE4" alt="GitHub Streak Stats"/><br/><br/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=DarkMortal&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=012148B&icon_color=6FDA44&text_color=D3D3D3&bg_color=0,000000,130F40"></img>
 </div>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
@@ -28,17 +28,15 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></img>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
-<p align="center">
 
+<p align="center">
+    
 - **Languages**:
     
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-
-<br>   
     
 - **Front-End Development**:
 
@@ -50,14 +48,12 @@
    ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
    ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
    ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-<br>
 
 - **Cloud Hosting**:
 
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
     ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-<br>
 
 - **Softwares and Tools**:
 
@@ -66,7 +62,6 @@
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-<br>
 
 - **Databases**:
 
@@ -75,13 +70,11 @@
     ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
     ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
     ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-<br>
 
 - **Fullstack**:
 
     ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
     ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-<br>
 
 - **Extras**:
 
@@ -90,11 +83,11 @@
     ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ---
 <div align="center">
-    
-<strong>Follow me around the web:</strong><br>
-<a href="https://www.linkedin.com/in/saptarshi-dey-0905211a5" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://open.spotify.com/user/31hmsdhy5tvxnxgzqcpyuavv2f64" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
-<a href="https://dev.to/darkmortal" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+    <strong>Follow me around the web:</strong><br>
+    <a href="https://www.linkedin.com/in/saptarshi-dey-0905211a5" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://open.spotify.com/user/31hmsdhy5tvxnxgzqcpyuavv2f64" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+    <a href="https://dev.to/darkmortal" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a><br/>
+    <img src="https://github-profile-trophy.vercel.app/?username=DarkMortal&theme=onestar&no-frame=true&column=3&row=2" alt="GitHub Streak Stats"/>
 </div>
 
 ---
