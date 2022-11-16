@@ -14,7 +14,7 @@
 <br>
 
 - A passionate Self-taught Software developer
-- Playing chess in spare time
+- Playing chess in spare time on [chess.com](https://www.chess.com/member/legendrarywarrior)
 - Currently learning Digital Signal Processing
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/122z45p98amOncLL-12eXiE6N2Y9l98UH/view?usp=sharing)
 
@@ -86,7 +86,6 @@
 <a href="https://www.linkedin.com/in/saptarshi-dey-0905211a5" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://open.spotify.com/user/31hmsdhy5tvxnxgzqcpyuavv2f64" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 <a href="https://dev.to/darkmortal" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
-    
 </div>
 
 ---
