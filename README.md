@@ -1,12 +1,14 @@
-[![HitCount](https://hits.dwyl.com/DarkMortal/DarkMortal.svg?style=flat)](http://hits.dwyl.com/DarkMortal/DarkMortal)
-<h1 align="center"><b>Hi , I'm Saptarshi Dey </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Saptarshi Dey </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+<img src="https://komarev.com/ghpvc/?username=DarkMortal&label=Profile%20views&color=0e75b6&style=flat" alt="andermendoza" />
+</h1>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F7D549&center=true&vCenter=true&width=435&lines=Developer;Programmer;Diffferential+Equations;Vector+Calculus;Statistics;Chess;Data+Structures;Algorithms" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F7D549&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Object+Oriented+Programming;Diffferential+Equations;Vector+Calculus;Statistics;Chess;Data+Structures;Algorithms" alt="Typing SVG" />
 </p>
 
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkMortal&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=012148B&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&layout=compact"></img><br/><br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=DarkMortal&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=012148B&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"></img>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkMortal&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=012148B&text_color=D3D3D3&bg_color=0,000000,130F40&layout=compact" height="200"></img><br/><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DarkMortal&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=0E8DE4&fire=012148B&ring=0E8DE4" alt="GitHub Streak Stats" height="200" /><br/><br/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=DarkMortal&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=012148B&icon_color=6FDA44&text_color=D3D3D3&bg_color=0,000000,130F40" height="200"></img>
 </div>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
