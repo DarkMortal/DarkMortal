@@ -86,7 +86,7 @@
 ---
 <div align="center">
     <strong>Follow me around the web:</strong><br>
-    <a href="https://www.linkedin.com/in/saptarshi-dey-0905211a5" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://www.linkedin.com/in/darkMortal/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="https://open.spotify.com/user/31hmsdhy5tvxnxgzqcpyuavv2f64" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
     <a href="https://dev.to/darkmortal" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a><br/>
 </div>
