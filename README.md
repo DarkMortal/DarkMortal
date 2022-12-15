@@ -92,4 +92,6 @@
 </div>
 
 ---
-
+<div align="center">
+<img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=31hmsdhy5tvxnxgzqcpyuavv2f64&cover_image=true&theme=default&show_offline=false&background_color=111827&bar_color=0963e3&bar_color_cover=false"></img>
+</div>
