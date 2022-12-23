@@ -14,10 +14,10 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=DarkMortal&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=012148B&icon_color=6FDA44&text_color=D3D3D3&bg_color=0,000000,130F40"></img>
 </div>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://user-images.githubusercontent.com/67017303/209289506-0ecedebd-8968-43cb-a93b-e237582bc6d1.gif" width = 50px></picture> **About me**
 
 <div align="center">
-    <picture> <img align="center" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+    <picture> <img align="center" src="https://user-images.githubusercontent.com/67017303/209289640-cde876f9-7b57-4184-b377-72928a8319ae.gif" width = 250px></picture>
     </div><div><ul>
         <li>A passionate Self-taught Software developer</li>
         <li>Playing chess in spare time on <a href="https://www.chess.com/member/legendrarywarrior" target="_blank">chess.com</a></li>
