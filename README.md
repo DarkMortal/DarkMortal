@@ -1,3 +1,5 @@
+[![img1](https://i.imgur.com/dR5Oemq.gif)]()
+
 <h1 align="center">
     <b>Hi , I'm Saptarshi Dey </b>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
@@ -102,11 +104,15 @@
 <p>
 
 ```math
-\huge \displaystyle \int \limits_{-\infty}^{\infty} e^{x^2} dx = \sqrt{\pi}
+\huge \displaystyle \int \limits_{0}^{\infty} \frac{\cos{ax}}{x} dx = 0
 ```
-
+    
 ```math
-\huge \displaystyle \int \limits_{0}^{\infty} \frac{\sin{x}}{x} dx = \frac{\pi}{2}
+\huge \displaystyle \int \limits_{0}^{\infty} \frac{\sin{ax}}{x} dx = \frac{\pi}{2}
+```
+    
+```math
+\huge \displaystyle \int \limits_{-\infty}^{\infty} e^{-ax^2} dx = \huge \displaystyle 2 \int \limits_{0}^{\infty} e^{-ax^2} dx = \sqrt{\frac{\pi}{a}}
 ```
 
 ```math
