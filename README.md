@@ -93,5 +93,25 @@
 
 ---
 <div align="center">
+<h1><u>Stalk my Spotify</u></h1>
 <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=31hmsdhy5tvxnxgzqcpyuavv2f64&cover_image=true&theme=default&show_offline=false&background_color=111827&bar_color=0963e3&bar_color_cover=false"></img>
 </div>
+
+---
+# Some common Integrals
+
+```math
+\huge \displaystyle \int \limits_{-\infty}^{\infty} e^{x^2} dx = \sqrt{\pi}
+```
+
+```math
+\huge \displaystyle \int \limits_{0}^{\infty} \frac{\sin{x}}{x} dx = \frac{\pi}{2}
+```
+
+```math
+\huge \displaystyle \int e^{ax}\sin(bx) dx = \frac{e^{ax}}{a^2 + b^2} \left(a\sin(bx)-b\cos(bx)\right) + C
+```
+
+```math
+\huge \displaystyle \int e^{ax}\cos(bx) dx = \frac{e^{ax}}{a^2 + b^2} \left(a\cos(bx)+b\sin(bx)\right) + C
+```
