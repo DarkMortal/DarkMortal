@@ -99,6 +99,7 @@
 
 ---
 # Some common Integrals
+$$ \huge \displaystyle \int e^{ax}\sin(bx) dx = \frac{e^{ax}}{a^2 + b^2} \left(a\sin(bx)-b\cos(bx)\right) + C $$
 
 ```math
 \huge \displaystyle \int \limits_{-\infty}^{\infty} e^{x^2} dx = \sqrt{\pi}
