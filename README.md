@@ -104,11 +104,11 @@
 <p>
 
 ```math
-\huge \displaystyle \int \limits_{0}^{\infty} \frac{\cos{ax}}{x} dx = 0
+\huge \displaystyle \int \limits_{0}^{\infty} \frac{\cos(ax)}{x} dx = 0
 ```
     
 ```math
-\huge \displaystyle \int \limits_{0}^{\infty} \frac{\sin{ax}}{x} dx = \frac{\pi}{2}
+\huge \displaystyle \int \limits_{0}^{\infty} \frac{\sin(ax)}{x} dx = \frac{\pi}{2}
 ```
     
 ```math
