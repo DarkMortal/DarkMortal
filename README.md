@@ -87,16 +87,18 @@
     ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ---
 <div align="center">
-    <strong>Follow me around the web:</strong><br>
+    <h1><strong>Follow me around the web:</strong><br></h1>
     <a href="https://www.linkedin.com/in/dey-saptarshi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="https://open.spotify.com/user/31hmsdhy5tvxnxgzqcpyuavv2f64" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
     <a href="https://dev.to/darkmortal" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a><br/>
+    <h1><strong>Connect with me on Discord</strong><br></h1>
+    <a href="https://discord.com/users/757124773154127882"><img src="https://discord.c99.nl/widget/theme-1/757124773154127882.png"/>
 </div>
 
 ---
 <div align="center">
 <h1><u>Stalk my Spotify</u></h1>
-<img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=31hmsdhy5tvxnxgzqcpyuavv2f64&cover_image=true&theme=default&show_offline=false&background_color=111827&bar_color=0963e3&bar_color_cover=false"></img>
+<img align="center" style="width: 40%" src="https://spotify-github-profile.vercel.app/api/view?uid=31hmsdhy5tvxnxgzqcpyuavv2f64&cover_image=true&theme=default&show_offline=false&background_color=111827&bar_color=0963e3&bar_color_cover=false"></img>
 </div>
 
 ---
