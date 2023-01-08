@@ -19,7 +19,7 @@
 ## <picture><img src = "https://user-images.githubusercontent.com/67017303/209289506-0ecedebd-8968-43cb-a93b-e237582bc6d1.gif" width = 50px></picture> **About me**
 
 <div align="center">
-    <picture> <img align="center" src="https://user-images.githubusercontent.com/67017303/209289640-cde876f9-7b57-4184-b377-72928a8319ae.gif" width = 250px></picture>
+    <picture> <img align="center" src="https://user-images.githubusercontent.com/67017303/209289640-cde876f9-7b57-4184-b377-72928a8319ae.gif"></picture>
     </div><div><ul>
         <li>A passionate Self-taught Software developer</li>
         <li>Playing chess in spare time on <a href="https://www.chess.com/member/legendrarywarrior" target="_blank">chess.com</a></li>
