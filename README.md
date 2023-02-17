@@ -30,6 +30,7 @@
             <ul>
                 <li><a href="https://opensea.io/collection/fractals-sea" target="_blank">Collection-1</a></li>
                 <li><a href="https://opensea.io/collection/ribbon-patterns" target="_blank">Collection-2</a></li>
+                <li><a href="https://opensea.io/Dark_Mortal" target="_blank">My OpeSea Account</a></li>
             </ul>
     </ul>
 </div>
