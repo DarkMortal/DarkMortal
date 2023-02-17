@@ -26,6 +26,11 @@
         <li>Currently learning Digital Signal Processing</li>
         <li>Contact me via <a href='mailto: saptarshid795.tal@gmail.com'>Email</a></li>
         <li>I’m currently open for an internship or a new job opportunity, this is <a href="https://youtu.be/dQw4w9WgXcQ" target="_blank">my resume</a></li>
+        <li>Check out my NFT collections</li>
+            <ul>
+                <li><a href="https://opensea.io/collection/fractals-sea" target="_blank">Collection-1</a></li>
+                <li><a href="https://opensea.io/collection/ribbon-patterns" target="_blank">Collection-2</a></li>
+            </ul>
     </ul>
 </div>
 
