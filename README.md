@@ -25,7 +25,7 @@
         <li>Playing chess in spare time on <a href="https://www.chess.com/member/legendrarywarrior" target="_blank">chess.com</a></li>
         <li>Currently learning Digital Signal Processing</li>
         <li>Contact me via <a href='mailto: saptarshid795.tal@gmail.com'>Email</a></li>
-        <li>I’m currently open for an internship or a new job opportunity, this is <a href="https://rxresu.me/saptarshidey.bdm/saptarshi-dey" target="_blank">my resume</a></li>
+        <li>I’m currently open for an internship or a new job opportunity, this is <a href="https://drive.google.com/file/d/1atQy7GoI4tnZkZw8A-vOpwG3To31GoAf/view?usp=drivesdk" target="_blank">my resume</a></li>
         <!--<li>Check out my NFT collections</li>
             <ul>
                 <li><a href="https://opensea.io/collection/fractals-sea" target="_blank">Collection-1</a></li>
