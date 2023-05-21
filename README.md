@@ -111,7 +111,7 @@
 
 ---
 <details><summary><h2> Some common Integrals </h2></summary>
-<p>
+<!--<p>
 
 ```math
 \huge \displaystyle \int \limits_{0}^{\infty} \frac{\cos(ax)}{x} dx = 0
@@ -132,5 +132,8 @@
 ```math
 \huge \displaystyle \int e^{ax}\cos(bx) dx = \frac{e^{ax}}{a^2 + b^2} \left(a\cos(bx)+b\sin(bx)\right) + C
 ```
-</p>
+ 
+</p>-->
+
+![Integrals](https://github.com/DarkMortal/DarkMortal/assets/67017303/ec7fdb17-0f0b-4a5a-be29-8718261a0885)
 </details>
