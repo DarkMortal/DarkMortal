@@ -25,13 +25,7 @@
         <li>Playing chess in spare time on <a href="https://www.chess.com/member/legendrarywarrior" target="_blank">chess.com</a></li>
         <li>Currently learning Digital Signal Processing</li>
         <li>Contact me via <a href='mailto: saptarshid795.tal@gmail.com'>Email</a></li>
-        <li>I’m currently open for an internship or a new job opportunity, this is <a href="https://drive.google.com/file/d/13gsiCIPD4MbFC2u0e24b3d0uDn1I7nqu/view?usp=drivesdk" target="_blank">my resume</a></li>
-        <!--<li>Check out my NFT collections</li>
-            <ul>
-                <li><a href="https://opensea.io/collection/fractals-sea" target="_blank">Collection-1</a></li>
-                <li><a href="https://opensea.io/collection/ribbon-patterns" target="_blank">Collection-2</a></li>
-                <li><a href="https://opensea.io/Dark_Mortal" target="_blank">My OpeSea Account</a></li>
-            </ul>-->
+        <li>Check out my <a href="https://opensea.io/collection/synthesized-infinity" target="_blank">NFT Collection</a></li>
     </ul>
 </div>
 
