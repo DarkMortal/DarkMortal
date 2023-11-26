@@ -24,7 +24,6 @@
         <li>A passionate Self-taught Software developer</li>
         <li>Playing chess in spare time on <a href="https://www.chess.com/member/legendrarywarrior" target="_blank">chess.com</a></li>
         <li>Currently learning Digital Signal Processing</li>
-        <li>Contact me via <a href='mailto: saptarshid795.tal@gmail.com'>Email</a></li>
         <li>Check out my <a href="https://opensea.io/collection/synthesized-infinity" target="_blank">NFT Collection</a></li>
     </ul>
 </div>
