@@ -28,7 +28,7 @@
     </ul>
 </div>
 
-[![DarkMortal's GitHub | Stats](https://stats.quine.sh/DarkMortal/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=DarkMortal)
+<!--[![DarkMortal's GitHub | Stats](https://stats.quine.sh/DarkMortal/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=DarkMortal)-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></img>
 
