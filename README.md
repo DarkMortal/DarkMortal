@@ -103,10 +103,10 @@
 ---
 <div align="center">
     <h1><strong>Follow me around the web:</strong><br></h1>
+    <a href="https://www.buymeacoffee.com/darkmortal" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a><br/>
     <a href="https://www.linkedin.com/in/dey-saptarshi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="https://open.spotify.com/user/31hmsdhy5tvxnxgzqcpyuavv2f64" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
     <a href="https://dev.to/darkmortal" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a><br/>
-    <a href="https://www.buymeacoffee.com/darkmortal" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
     <!--<h1><strong>Connect with me on Discord</strong><br></h1>
     <a href="https://discord.com/users/757124773154127882" target="_blank"><img src="https://discord.c99.nl/widget/theme-1/757124773154127882.png"/>-->
 </div>
