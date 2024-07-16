@@ -93,12 +93,11 @@
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
     ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
----
-<div align="center">
+<!--<div align="center">
     <h1><u>Stalk my Spotify</u></h1>
     <a href='https://spotify-github-profile.vercel.app/api/view?uid=31hmsdhy5tvxnxgzqcpyuavv2f64&redirect=true' target='_blank'>
         <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=31hmsdhy5tvxnxgzqcpyuavv2f64&cover_image=true&theme=default&show_offline=false&background_color=111827&bar_color=0963e3&bar_color_cover=false"/></a>
-</div>
+</div>-->
 
 ---
 <div align="center">
