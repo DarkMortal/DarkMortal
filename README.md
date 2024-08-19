@@ -16,16 +16,15 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=DarkMortal&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=012148B&icon_color=6FDA44&text_color=D3D3D3&bg_color=0,000000,130F40"></img>
 </div>-->
 # 📊 GitHub Stats:
-[![DarkMortal's GitHub | Stats](https://stats.quine.sh/DarkMortal/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=DarkMortal)
-[![DarkMortal's GitHub | Dependencies](https://stats.quine.sh/DarkMortal/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=DarkMortal)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DarkMortal&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DarkMortal&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DarkMortal&theme=github_dark)
+[![DarkMortal's GitHub | Stats](https://stats.quine.sh/DarkMortal/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=DarkMortal)
+[![DarkMortal's GitHub | Dependencies](https://stats.quine.sh/DarkMortal/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=DarkMortal)
 
-## <picture><img src = "https://user-images.githubusercontent.com/67017303/209289506-0ecedebd-8968-43cb-a93b-e237582bc6d1.gif" width = 50px></picture> **About me**
-
+## <picture><img src = "https://github.com/user-attachments/assets/9afd0edc-98da-4ce7-9388-faa293cdf7da" width = 50px></picture> **About me**
 <div align="center">
-    <picture> <img align="center" src="https://user-images.githubusercontent.com/67017303/209289640-cde876f9-7b57-4184-b377-72928a8319ae.gif"></picture>
+    <picture> <img align="center" src="https://github.com/user-attachments/assets/37f43d38-b1df-4049-bb31-267cc92ebd51"></picture>
     </div><div><ul>
         <li>A passionate Self-taught Software developer</li>
         <li>Playing chess in spare time on <a href="https://www.chess.com/member/legendrarywarrior" target="_blank">chess.com</a></li>
@@ -37,9 +36,7 @@
 <!--[![DarkMortal's GitHub | Stats](https://stats.quine.sh/DarkMortal/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=DarkMortal)-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></img>
-
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-
 <p align="center">
     
 - **Languages**:
