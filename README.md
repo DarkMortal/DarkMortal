@@ -138,5 +138,5 @@
 
 ***
 # Social Summer of Code 2024
-![SSOC 2024](https://github.com/user-attachments/assets/d480f5b2-4dd9-4da0-bea7-42792dd0c914)
+<a href="https://verification.givemycertificate.com/v/2736ed09-fd32-4f1b-ad9a-84d930b1a6ee" target="_blank"><img src="https://github.com/user-attachments/assets/d480f5b2-4dd9-4da0-bea7-42792dd0c914" alt="SSOC 2024"></a>
 ***
