@@ -108,6 +108,9 @@
 </div>
 
 ---
+# Social Summer of Code 2024
+![SSOC 2024](https://github.com/user-attachments/assets/d480f5b2-4dd9-4da0-bea7-42792dd0c914)
+---
 <details><summary><h2> Some common Integrals </h2></summary>
 <!--<p>
 
