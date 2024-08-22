@@ -15,7 +15,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarkMortal&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=0E8DE4&fire=012148B&ring=0E8DE4" alt="GitHub Streak Stats"/><br/><br/>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=DarkMortal&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=012148B&icon_color=6FDA44&text_color=D3D3D3&bg_color=0,000000,130F40"></img>
 </div>-->
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DarkMortal&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DarkMortal&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DarkMortal&theme=github_dark)
