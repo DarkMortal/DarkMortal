@@ -19,8 +19,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DarkMortal&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DarkMortal&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DarkMortal&theme=github_dark)
-[![DarkMortal's GitHub | Stats](https://stats.quine.sh/DarkMortal/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=DarkMortal)
-[![DarkMortal's GitHub | Dependencies](https://stats.quine.sh/DarkMortal/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=DarkMortal)
+<!--[![DarkMortal's GitHub | Stats](https://stats.quine.sh/DarkMortal/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=DarkMortal)
+[![DarkMortal's GitHub | Dependencies](https://stats.quine.sh/DarkMortal/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=DarkMortal)-->
 
 ## <picture><img src = "https://github.com/user-attachments/assets/9afd0edc-98da-4ce7-9388-faa293cdf7da" width = 50px></picture> **About me**
 <div align="center">
@@ -136,7 +136,7 @@
 ![Integrals](https://github.com/DarkMortal/DarkMortal/assets/67017303/ec7fdb17-0f0b-4a5a-be29-8718261a0885)
 </details>
 
-***
+<!--***
 # Social Summer of Code 2024
-<a href="https://verification.givemycertificate.com/v/2736ed09-fd32-4f1b-ad9a-84d930b1a6ee" target="_blank"><img src="https://github.com/user-attachments/assets/d480f5b2-4dd9-4da0-bea7-42792dd0c914" alt="SSOC 2024"></a>
+<a href="https://verification.givemycertificate.com/v/2736ed09-fd32-4f1b-ad9a-84d930b1a6ee" target="_blank"><img src="https://github.com/user-attachments/assets/d480f5b2-4dd9-4da0-bea7-42792dd0c914" alt="SSOC 2024"></a>-->
 ***
