@@ -92,7 +92,7 @@
 
 <div align="center">
     <h1><u>Stalk my Spotify</u></h1>
-    <a href='https://spotify-github-profile.vercel.app/api/view?uid=31hmsdhy5tvxnxgzqcpyuavv2f64&redirect=true' target='_blank'>
+    <a href='https://open.spotify.com/user/31hmsdhy5tvxnxgzqcpyuavv2f64' target='_blank'>
         <img align="center" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31hmsdhy5tvxnxgzqcpyuavv2f64&cover_image=true&theme=default&show_offline=false&background_color=0c0d12&interchange=false&bar_color=0176f4&bar_color_cover=false"/></a>
 </div>
 
